@@ -1,6 +1,6 @@
 var myForm = document.getElementById("myForm");
 var myInput = document.getElementById("myInput");
-var myItem = document.getElementById("myItem");
+var myItem = document.getElementById("Add Item");
 
 myForm.addEventListener("submit", function (event) {
   event.preventDefault();
